@@ -2,7 +2,7 @@
 clear;
 
 versionnum = 1.1;
-path = 'Z:\Ca2+ imaging analysis March\Julius\CaAn'; %add correct path to the calcium analysis algorithm
+path = 'Z:\'; %add correct path to the calcium analysis algorithm
 
 fig = figure('Name',['CaA ' num2str(versionnum)],'NumberTitle','off','MenuBar','none','doublebuffer','on',...
     'units','normalized','closerequestfcn','CaAnfigclose','position',[0 .08/3 1 2.86/3]);
