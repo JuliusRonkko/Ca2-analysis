@@ -10,3 +10,6 @@ For the normalizing and thresholding the resulted data, we used MatLab script "C
 
 For the peak analysis, we used R-script "analyzeAverages.R"
 - This script detects peaks from the traces and analyzes the averages in multiple ways, including AUC, peak detect and time of the peak analysis; and produces results as Excel files.
+
+Licence: MIT
+Copyright: Julius Rönkkö
